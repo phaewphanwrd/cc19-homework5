@@ -129,26 +129,25 @@ body {
 
 main {
     background-color: var(--background--color);
-}
+}    
 
 h1 {
     padding: 40px 140px 20px;
 }
 
 
-
 /* container Mycart */
 .container-mycart {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 40px;
     height: 80vh;
 }
 
 .container-mycart-left {
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 40px;
 
 }
 
